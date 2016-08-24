@@ -13,7 +13,7 @@ s.listen(5)
 
 clnt,addr=s.accept()
 
-print "Client Address:",addr
+print "TCP Client Address:",addr
 
 while True:
     data=clnt.recv(1024)

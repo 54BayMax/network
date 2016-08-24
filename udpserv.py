@@ -2,7 +2,7 @@
 import socket
 
 #ip:127.0.0.1,port 3214
-HOST=''
+HOST='' #warning:Ip addr can only be dropped in server!
 PORT=3214
 
 #AF_INET IPV4
